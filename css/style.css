@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@font-face {font-family: "AlgerianMesaPlain"; src: url("//db.onlinewebfonts.com/t/b6a69f971181a779fa603b85e27cf9b7.eot"); src: url("//db.onlinewebfonts.com/t/b6a69f971181a779fa603b85e27cf9b7.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/b6a69f971181a779fa603b85e27cf9b7.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/b6a69f971181a779fa603b85e27cf9b7.woff") format("woff"), url("//db.onlinewebfonts.com/t/b6a69f971181a779fa603b85e27cf9b7.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/b6a69f971181a779fa603b85e27cf9b7.svg#AlgerianMesaPlain") format("svg"); }
+p{
+    font-family: "AlgerianMesaPlain";
+    font-size: 5em;
+}
